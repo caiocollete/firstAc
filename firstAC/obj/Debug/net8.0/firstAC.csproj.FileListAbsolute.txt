@@ -1,0 +1,14 @@
+C:\Users\caioc\Desktop\firstAC\firstAC\bin\Debug\net8.0\firstAC.exe
+C:\Users\caioc\Desktop\firstAC\firstAC\bin\Debug\net8.0\firstAC.deps.json
+C:\Users\caioc\Desktop\firstAC\firstAC\bin\Debug\net8.0\firstAC.runtimeconfig.json
+C:\Users\caioc\Desktop\firstAC\firstAC\bin\Debug\net8.0\firstAC.dll
+C:\Users\caioc\Desktop\firstAC\firstAC\bin\Debug\net8.0\firstAC.pdb
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\firstAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\firstAC.AssemblyInfoInputs.cache
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\firstAC.AssemblyInfo.cs
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\firstAC.csproj.CoreCompileInputs.cache
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\firstAC.dll
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\refint\firstAC.dll
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\firstAC.pdb
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\firstAC.genruntimeconfig.cache
+C:\Users\caioc\Desktop\firstAC\firstAC\obj\Debug\net8.0\ref\firstAC.dll
